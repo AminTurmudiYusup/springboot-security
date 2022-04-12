@@ -1,5 +1,5 @@
 # springboot-security-v01
-This project define how to implementation spring boot security using jdbcauthentication/database authentication
+This project define how to implementation spring boot security using jdbcauthentication/database authentication # (authentication)
 1. show login page
 2. input username and password which registered in database
 3. if user and password match with user which stored in database
